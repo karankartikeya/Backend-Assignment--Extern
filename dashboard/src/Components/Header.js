@@ -164,10 +164,6 @@ const Header = ({ sortButtonHandler, searchHandler }) => {
                                 Sort By Channel Title Descending
                             </button>
                         </NavItem>
-
-                        {/*--------------------------------------------------------------------------------*/}
-                        {/* End Search-box toggle                                                          */}
-                        {/*--------------------------------------------------------------------------------*/}
                     </Nav>
                     <Nav className="ml-auto float-right" navbar>
                     </Nav>
