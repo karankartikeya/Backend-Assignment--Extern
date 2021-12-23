@@ -17,5 +17,5 @@ from django.urls import path
 from .views import *
 
 urlpatterns = [
-    path('get-videos', VideosView.as_view())
+    path('videos', VideosView.as_view())
 ]
